@@ -16,5 +16,7 @@ class Point:
         print("draw")
         
         
+        
 point=Point(10,20)
 print(point.x)
+print("the circle is drawn")
